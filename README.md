@@ -1,2 +1,2 @@
-# Machine_Learning_STAT451_Project
+# UW-Madison, Machine Learning STAT 451 Course Project
 MLB; Baseball Statistical Analysis
